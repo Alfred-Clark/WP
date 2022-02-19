@@ -1,2 +1,6 @@
 # WP
-docker with wordpress
+docker + wordpress
+
+start: 
+
+docker-compose up -d
